@@ -13,10 +13,7 @@
   </div>
 
   <h3 align="center">identiFi</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@albertmends" target="_blank"><b>Your YouTube Channel</b></a>. Join the community!
-    </div>
+   
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -29,11 +26,6 @@
 6. 🖼️ [Storing Images on IPFS](#storing-images-on-ipfs)
 7. 🚀 [More](#more)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@albertmends/videos" target="_blank"><b>Code with Albert</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -78,7 +70,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/blocklinklabs/IdentiFi.git
+git clone https://github.com/Bharat-kasera/identiFI.git
 cd identifi
 ```
 
@@ -142,4 +134,3 @@ We welcome contributions to identiFi! To contribute, please follow these steps:
 4. Push your changes to your fork.
 5. Submit a pull request to the main repository.
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
